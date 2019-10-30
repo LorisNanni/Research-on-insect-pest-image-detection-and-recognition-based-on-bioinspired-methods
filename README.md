@@ -1,0 +1,1 @@
+# Research-on-insect-pest-image-detection-and-recognition-based-on-bioinspired-methods
